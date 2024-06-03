@@ -39,12 +39,10 @@ The JMeter test plan (Project_PetStore.jmx) includes the following:
 ### Bug Report
 Bug report involves collecting, formatting, storing, and sharing diagnostic information about issues that interfere with the functionality of a website or application.  
 ![info](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-index-html-2024-06-02-22_15_31.png) 
-![App Screenshot](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Main.PNG)  
-
-### Test Execution Report
-A test execution Report is a document that contains a summary of all test activities and the final test results of a testing project.  
-![Chart Data](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/chart_data.PNG)  
-![Pie Chart](https://github.com/Sparsha-Singha/Manual_Testing-Shohoz/blob/main/Image%20Gallery/Capture.PNG)  
+![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-Throughput-html-2024-06-02-22_17_18.png)   
+![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-ResponseTimes-html-2024-06-02-22_17_51.png)   
+![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-OverTime-html-2024-06-02-22_16_30.png)   
+  
 
 ### Contributing
 Contributions and feedback are welcome! If you identify new issues or have suggestions for improvements, please create an issue or submit a pull request.
