@@ -1,6 +1,6 @@
 ### JPetStore Performance Testing with JMeter
 
-This repository contains a performance testing report for the Pet Store website using Apache JMeter. The goal of this project is to evaluate the performance and scalability of the Pet Store application under different load conditions.
+This repository contains a performance testing report for the JPetStore website using Apache JMeter. The goal of this project is to evaluate the performance and scalability of the JPetStore application under different load conditions.
 
 
 ### Test Plan Details
