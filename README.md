@@ -39,9 +39,10 @@ The JMeter test plan (Project_PetStore.jmx) includes the following:
 ### Bug Report
 Bug report involves collecting, formatting, storing, and sharing diagnostic information about issues that interfere with the functionality of a website or application.  
 ![info](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-index-html-2024-06-02-22_15_31.png) 
+![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-OverTime-html-2024-06-02-22_16_30.png)
 ![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-Throughput-html-2024-06-02-22_17_18.png)   
 ![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-ResponseTimes-html-2024-06-02-22_17_51.png)   
-![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-OverTime-html-2024-06-02-22_16_30.png)   
+   
   
 
 ### Contributing
