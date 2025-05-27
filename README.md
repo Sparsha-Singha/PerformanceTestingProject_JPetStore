@@ -2,17 +2,6 @@
 
 This repository contains a performance testing report for the JPetStore website using Apache JMeter. The goal of this project is to evaluate the performance and scalability of the JPetStore application under different load conditions.
 
-
-### Test Plan Details
-
-The JMeter test plan (Project_PetStore.jmx) includes the following:
-
-- Thread Groups: Simulates multiple users accessing the Pet Store website.
-- HTTP Requests: Various HTTP requests to simulate user interactions such as browsing products, adding items to the cart, and completing purchases.
-- Assertions: Checks t# 🐾 'JPetStore' Performance Testing with JMeter
-
-This repository contains a performance testing report for the JPetStore website using Apache JMeter. The goal of this project is to evaluate the performance and scalability of the JPetStore application under different load conditions.
-
 ### Report's screenshots
   
 ![info](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-index-html-2024-06-02-22_15_31.png) 
@@ -20,8 +9,6 @@ This repository contains a performance testing report for the JPetStore website 
 ![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-Throughput-html-2024-06-02-22_17_18.png)   
 ![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-ResponseTimes-html-2024-06-02-22_17_51.png)   
    
-  
-
 
 ## 🧪 Test Plan Details
 
@@ -57,15 +44,6 @@ The JMeter test plan (Project_PetStore.jmx) includes the following:
 🏃 Run the tests in non-GUI mode for better performance with this command:
     jmeter -n -t [jmx file] -l [results file] -e -o [Path to web report folder]
 
-          
-### Report's screenshots
-  
-![info](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-index-html-2024-06-02-22_15_31.png) 
-![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-OverTime-html-2024-06-02-22_16_30.png)
-![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-Throughput-html-2024-06-02-22_17_18.png)   
-![App Screenshot](https://github.com/Sparsha-Singha/PerformanceTesting_JMeter/blob/main/Image%20Gallery/screencapture-file-D-Report-Jmeter-PetStore-Report-PetStore-Web-content-pages-ResponseTimes-html-2024-06-02-22_17_51.png)   
-   
-  
 
 ### Contributing
 Contributions and feedback are welcome! Please fork the repository and submit a pull request for any improvements or additional tests you would like to add.
